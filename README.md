@@ -10,10 +10,10 @@ Altair slc reading and writing OpenDocument spreadsheets using r and python
 
      CONTENTS
 
-      1 r create and opendocument spreadsheet and an ms excell spreadsheet
-      2 r opendocument spreadsheet subset for males and output opendocument spredsheet
-      3 python read opemDocument
-      4 python write opemDocument spreadsheet
+      1 r create an OpenDocument spreadsheet  
+      2 r opendocument spreadsheet subset for males  
+      3 python read OpenDocument
+      4 python write OpenDocument spreadsheet
 
     github
     https://tinyurl.com/mwp5yutj
