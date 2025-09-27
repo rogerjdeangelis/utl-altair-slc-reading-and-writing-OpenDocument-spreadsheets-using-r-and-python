@@ -8,8 +8,8 @@ Too long to post here, see github
 
  CONTENTS
 
-  1 r create and opendocument spreadsheet and an ms excell spreadsheet
-  2 r opendocument spreadsheet subset for males and output opendocument spredsheet
+  1 r create and opendocument spreadsheet  
+  2 r opendocument spreadsheet subset for males  
   3 python read opemDocument
   4 python write opemDocument spreadsheet
 
